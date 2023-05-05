@@ -1,7 +1,7 @@
-export {}
+export {};
 
 function run() {
-    console.log('SETUP!');
+  console.log("SETUP!");
 }
 
 run();
